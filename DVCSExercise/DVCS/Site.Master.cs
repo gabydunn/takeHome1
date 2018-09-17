@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace takeHome1
+namespace DVCS
 {
-    public partial class Contact : Page
+    public partial class SiteMaster : MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {

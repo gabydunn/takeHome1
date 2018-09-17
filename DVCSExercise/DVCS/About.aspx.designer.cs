@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace takeHome1
+namespace DVCS
 {
 
 
-    public partial class Contact
+    public partial class About
     {
     }
 }

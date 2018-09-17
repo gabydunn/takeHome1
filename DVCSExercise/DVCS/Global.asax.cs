@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace takeHome1
+namespace DVCS
 {
     public class Global : HttpApplication
     {

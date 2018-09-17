@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("takeHome1")]
+[assembly: AssemblyTitle("DVCS")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("takeHome1")]
+[assembly: AssemblyProduct("DVCS")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b3f3855f-02dd-4b25-8e54-2ce51346ab36")]
+[assembly: Guid("f4f65950-211f-41c6-88a1-d1e5fa41603a")]
 
 // Version information for an assembly consists of the following four values:
 //
